@@ -6,7 +6,7 @@
     background-color: #6900d1;
 }
 .navbar{
-    padding-top: 20px !important;
+    padding-top: 19px !important;
 }
 .nav-item{
     margin-left: 40px;
@@ -266,3 +266,10 @@ background-color: #6900d1 !important;
     padding-bottom: 20px;
     display: block;
 }
+
+/* git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vishal7547/website-template-HTML-CSS.git
+git push -u origin main */
